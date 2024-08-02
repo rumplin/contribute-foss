@@ -210,6 +210,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Gentoo](https://wiki.gentoo.org/wiki/Contributing_to_Gentoo)
 - [Kali](https://docs.kali.org/contribute)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
+- [Kubuntu](https://kubuntu.org/contribute-to-kubuntu/)
 - [Lubuntu](https://lubuntu.me/links/)
 - [Mageia](https://www.mageia.org/contribute/)
 - [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
